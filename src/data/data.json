@@ -1,0 +1,12 @@
+{
+    "users": [
+      {"id": 1, "name": "Admin", "email": "admin@gmail.com", "role": "Admin", "password": "admin123"},
+      {"id": 2, "name": "John Doe", "email": "john@.com", "role": "User", "password": "user123"}
+    ],
+    "products": [
+      {"id": 1, "name": "Product 1", "description": "A useful item.", "price": 100},
+      {"id": 2, "name": "Product 2", "description": "Another useful item.", "price": 200},
+      {"id": 3, "name": "Product 3", "description": "Yet another item.", "price": 150}
+    ],
+    "cart": []
+  }
